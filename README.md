@@ -3,7 +3,7 @@
 <br/>🌱 I'm a research assistant at UC Berkeley's Space Science Laboratories on data processing and visualization software for NASA's Magnetospheric Multiscale (MMS) mission. 
 <br/>✨ I was a software engineering intern in the Summer of 2023 for the software team at Excermatic (an anti-theft solutions company)
 
-💬 Many of my projects from school and past internships are in my private repo as requested by UC Berkeley to preserve academic integrity. If you're a potential employer and would like to review my more complex projects, please email me at issaczf@berkeley.edu and I'm happy to share!
+💬 Many of my projects (over 10) from school and past internships are in my private repo as requested by UC Berkeley to preserve academic integrity. If you're a potential employer and would like to review my additional projects, please email me at issaczf@berkeley.edu and I'm happy to share!
 
 ⚡ Fun fact: I'm a student pilot and a photographer!
 <!--
